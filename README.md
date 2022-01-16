@@ -36,7 +36,7 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-[GC_venture_funding_with_deep_learning.ipynb](https://colab.research.google.com/github/odhissm/trading_bot/blob/main/bot_app/GC_machine_learning_trading_bot.ipynb) - to run the application from Google colab
+[GC_machine_learning_trading_bot.ipynb](https://colab.research.google.com/github/odhissm/trading_bot/blob/main/bot_app/GC_machine_learning_trading_bot.ipynb) - to run the application from Google colab
 
 with the:
 
