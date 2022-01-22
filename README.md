@@ -48,7 +48,7 @@ jupyter lab
 
 ---
 
-## Alternative ML Model and Evaluate Strategy Returns
+## Alternative ML Model and Evaluation of Strategy Returns
 
 
 ---
