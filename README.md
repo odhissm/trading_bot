@@ -87,7 +87,7 @@ The precision of the prediction improved when moving from 6 to 18 months but got
 ![Step_2-c_2_short_window-SMA](./bot_app/Resources/Images/Step_2-c_2_short_window-SMA.jpg)    
     
     
-short-window = 4 for SMA seemd to be the most ideal as it generated a more precise prediction. The prediction got worse on increasing the short-windo to 8 and also when it was lowered to 2 where we couldn't see the both lines on the chart. Looks like a value os 2 may need some more adjusting of the data set to be able to see the two line charts.
+short-window = 4 for SMA seemd to be the most ideal as it generated a more precise prediction. The prediction got worse on increasing the short-windo to 8 and also when it was lowered to 2.
 
 
 
